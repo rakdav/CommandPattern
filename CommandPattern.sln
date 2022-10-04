@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{7D5F51E7-C45E-4ADD-90FD-265D5EA10F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{22177F92-88D2-4C13-A5DC-65CCEEFBB6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5F51E7-C45E-4ADD-90FD-265D5EA10F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5F51E7-C45E-4ADD-90FD-265D5EA10F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5F51E7-C45E-4ADD-90FD-265D5EA10F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5F51E7-C45E-4ADD-90FD-265D5EA10F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22177F92-88D2-4C13-A5DC-65CCEEFBB6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22177F92-88D2-4C13-A5DC-65CCEEFBB6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22177F92-88D2-4C13-A5DC-65CCEEFBB6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22177F92-88D2-4C13-A5DC-65CCEEFBB6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE349062-B336-429E-B4C9-43B035834E49}
+	EndGlobalSection
+EndGlobal
